@@ -1,7 +1,7 @@
 {
-  "name": "yet-another-deep-research",
+  "name": "typescript-boilerplate",
   "version": "1.0.0",
-  "description": "An agentic AI service doing deep reasearch!",
+  "description": "A simple boilerplate for typescript projects!",
   "main": "src/index.ts",
   "scripts": {
     "build": "tsc",
